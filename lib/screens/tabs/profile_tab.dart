@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trail_app/login.dart';
+import 'package:workout_app/login.dart';
 import '../theme_settings_page.dart';
 
 class ProfileTab extends StatelessWidget {

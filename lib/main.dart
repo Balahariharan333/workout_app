@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:trail_app/providers/theme_provider.dart';
-import 'package:trail_app/providers/workout_provider.dart';
-import 'package:trail_app/providers/workout_todo_provider.dart';
+import 'package:workout_app/providers/theme_provider.dart';
+import 'package:workout_app/providers/workout_provider.dart';
+import 'package:workout_app/providers/workout_todo_provider.dart';
 import 'login.dart';
 
 void main() {
